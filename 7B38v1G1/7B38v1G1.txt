@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------------------------------
+A320M PRO-VD PLUS (BIOS : 7B38v1G1 CheckSum: DC5B)
+-----------------------------------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Update AMD ComboPI1.0.0.1
+-  Support new upcoming AMD cpu.
+
+3. 2019/5/21
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  更新 AMD ComboPI 1.0.0.1
+-  支援新推出的AMD CPU.
+
+C. 更新日期: 公元2019年5月21號
+

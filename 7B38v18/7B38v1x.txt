@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+A320M PRO-VD PLUS (MS-7B38) V1.8 BIOS Release
+---------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+
+-  Improved memory compatibility.
+-  Improved M.2 device compatibility.
+-  Improved Windowns7 compatibility.
+
+3. 2018/3/20
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+
+- 改善記憶體相容性.
+- 改善與部分 M.2 裝置的相容性
+- 改善 Windows7相容性.
+
+C. 更新日期: 公元2018年3月20號

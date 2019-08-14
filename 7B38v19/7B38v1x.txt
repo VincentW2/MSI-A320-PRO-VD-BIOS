@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+A320M PRO-VD PLUS (MS-7B38) V1.9 BIOS Release
+---------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+
+-  Improved USB mouse compatibility.
+-  Improve M.2 compatibility.
+-  Update AGESA code 1.0.0.2a
+
+3. 2018/5/04
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+
+- 改善 USB 滑鼠相容性.
+- 改善 M.2 裝置相容性
+- 更新 AGESA code 1.0.0.2a
+
+C. 更新日期: 公元2018年5月04號
+

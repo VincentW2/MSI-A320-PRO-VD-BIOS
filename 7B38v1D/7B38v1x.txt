@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+A320M PRO-VD PLUS (MS-7B38) V1.D BIOS Release
+---------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Improve compatibility with Raven CPU 
+-  Improve compatibility with Bristol CPU.
+
+3. 2019/1/02
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  改善與 Raven CPU 相容性
+-  改善與 Bristol CPU 相容性
+
+C. 更新日期: 公元2019年1月02號

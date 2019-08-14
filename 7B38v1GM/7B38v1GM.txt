@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------------------------
+A320M PRO-VD PLUS (BIOS : 7B38v1GM CheckSum:B76C)
+-----------------------------------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Update AMD ComboPI1.0.0.3a
+-  Support Ryzen 3000 series CPU.
+   Ryzen 9 3900X/Ryzen 7 3800X/Ryzen 7 3700X/Ryzen 5 3600X/Ryzen 5 3600/Ryzen 5 3400G/Ryzen 3 3200G
+-  Change BIOS UI to click BIOS(GSE-Lite) mode.
+
+3. 2019/7/01
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  更新 AMD ComboPI 1.0.0.3a
+-  支援 AMD Ryzen 3000 系列CPU.
+   Ryzen 9 3900X/Ryzen 7 3800X/Ryzen 7 3700X/Ryzen 5 3600X/Ryzen 5 3600/Ryzen 5 3400G/Ryzen 3 3200G
+-  改變 BIOS介面為 click BIOS(GSE-Lite) 模式.
+
+C. 更新日期: 公元2019年7月01號
+
+
+

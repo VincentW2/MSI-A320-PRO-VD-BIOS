@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+A320M PRO-VD PLUS (MS-7B38) V1.C BIOS Release
+---------------------------------------------------------------------------
+
+1. This is AMI BIOS release
+
+2. This BIOS fixes the following problem of the previous version:
+-  Update AGESA Code 1.0.0.6
+-  Improve compatibility with Raven CPU 
+-  Support SATA hotplug function.
+
+3. 2018/11/05
+
+[Below information is Chinese language]
+
+A. AMI BIOS 正式發行
+
+B. 此版本修正下列問題:
+-  更新 AGESA Code 1.0.0.6
+-  改善與 Raven CPU 相容性
+-  支援 SATA 熱插拔功能
+
+C. 更新日期: 公元2018年11月05號
